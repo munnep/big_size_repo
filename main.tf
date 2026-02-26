@@ -1,5 +1,5 @@
 resource "null_resource" "name" {
-    count =1
+    count =2
   
 }
 
